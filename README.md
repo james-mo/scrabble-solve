@@ -22,10 +22,10 @@ Java + JavaFX
 
 ### Solver
 #### Usage
-        java -jar ScrabbleSolver.jar <path/to/dictionary_file.txt>
+    java -jar ScrabbleSolver.jar <path/to/dictionary_file.txt>
 
 ### Scrabble Game
 #### Usage
-        java -jar ScrabbleGame.jar
+    java -jar ScrabbleGame.jar
 #### Known Issues
 Scoreboard clips onto the screen
