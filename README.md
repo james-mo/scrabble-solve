@@ -13,9 +13,9 @@ Sample dictionary file is included in resources/dictionary.txt. Format of the di
 
 The file resources/standardBoard.txt defines the board the ScrabbleGame.jar uses. The format is the a number `n` representing size of the board on the first line (eg 15 means a 15x15 board) and then the following n lines define the tiles. The format of each tile is a string of two characters. The first character is the word multiplier of that tile and the second character is the letter multiplier. e.g. `3.` represents a triple word tile and `.2` represents a double letter tile.
 
-This can be changed if you wish to recompile the game.
+This can be changed if you wish to rebuild the game.
 
-ScrabbleSolver.jar can be passed a dictionary file and it will run the tests in the file test_sowpods.txt which defines several board states and the current letter rack. The tests can also be modified if you wish to recompile.
+ScrabbleSolver.jar can be passed a dictionary file and it will run the tests in the file test_sowpods.txt which defines several board states and the current letter rack. The tests can also be modified if you wish to rebuild.
 
 ### Requirements
 Java + JavaFX
